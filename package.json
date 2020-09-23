@@ -1,0 +1,26 @@
+{
+    "name": "typescript-drag-physics",
+    "author": "Jeroen van der Laan",
+    "description": "A drag physics implementation in TypeScript",
+    "keywords": [
+        "drag",
+        "physics",
+        "typescript"
+    ],
+    "homepage": "https://www.github.com/jeroenvanderlaan/typescript-drag-physics",
+    "license": "ISC",
+    "version": "1.0.0",
+    "main": "webpack.config.js",
+    "production": false,
+    "private": false,
+    "engines": {
+        "node": ">=14"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {
+        "webpack": "^4.44.2",
+        "webpack-cli": "^3.3.12"
+    },
+    "peerDependencies": {}
+}
