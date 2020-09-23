@@ -1,4 +1,4 @@
-import './css/test.css';
-import test from "./ts/test";
+import './css/main.css';
+import main from "./ts/main";
 
-test();
+main();

@@ -9,5 +9,5 @@
 
 ### Develop
 
-`docker-compose exec node sh -c 'yarn webpack --mode=development --devtools=inline-source-map' --watch`
+`docker-compose exec node sh -c 'yarn webpack --mode=development --devtools=inline-source-map --watch`
 
