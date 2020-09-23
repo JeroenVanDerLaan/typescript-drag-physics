@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "module": "commonjs",
+        "target": "es6",
+        "moduleResolution": "node",
+        "lib": [
+            "es6",
+            "dom"
+        ],
+        "sourceMap": true,
+        "allowJs": false,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "listFiles": true,
+        "suppressImplicitAnyIndexErrors": true
+    },
+    "include": [
+        "src"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
